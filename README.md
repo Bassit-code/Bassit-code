@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bassit-code&label=Profile%20views&color=0e75b6&style=flat" alt="bassit-code" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://bassit-code.github.io/](https://bassit-code.github.io/)
+- 👨‍💻 Check out my personal website [https://bassit-code.github.io/](https://bassit-code.github.io/)
 
 - 📫 How to reach me **bassit750@gmail.com**
 
