@@ -5,7 +5,7 @@
 
 🎓 Graduated with a BSc in **Computer Science** from **Aston University**  
 🧑‍💻 Interested in software development, automation, and building practical tools  
-💡 Continuously learning and working on personal projects in development and security
+💡 Continuously learning and working on personal projects
 
 ---
 
