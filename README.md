@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bassit Irfan</h1>
-<h3 align="center">Software Developer | BSc Computer Science Graduate | Security & Web Enthusiast</h3>
+<h3 align="center">Computer Science Graduate from Aston University</h3>
 
 ---
 
-🎓 Recently graduated from **Aston University** with a degree in **Computer Science**  
-🔐 Built **Aegix**, a security tool for identifying vulnerabilities in source code  
-🛠️ Passionate about full-stack development, secure coding, and building impactful tools
+🎓 Graduated with a BSc in **Computer Science** from **Aston University**  
+🧑‍💻 Interested in software development, automation, and building practical tools  
+💡 Continuously learning and working on personal projects in development and security
 
 ---
 
-📫 **Contact me**: bassit.irfan7@gmail.com  
+📫 **Email**: bassit.irfan7@gmail.com  
 🌐 **Portfolio**: [https://bassit-code.github.io/](https://bassit-code.github.io/)  
 💼 **LinkedIn**: [linkedin.com/in/bassit-irfan](https://www.linkedin.com/in/bassit-irfan)
 
